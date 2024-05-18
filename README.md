@@ -1,4 +1,4 @@
-# INSERT-UPDATE-DELETE-OPERATIONS-DJANGO
+# CURD-INSERT-UPDATE-DELETE-OPERATIONS-DJANGO
 Building a Django Insert, Update, and Delete in Visual Studio
 Steps to Successfully run the code on your visual Studio.
 1- Download the zip file
